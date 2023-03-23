@@ -1,0 +1,152 @@
+navi button--
+
+position: absolute;
+width: 168px;
+height: 60px;
+left: 1132px;
+top: 30px;
+
+background: rgba(255, 255, 255, 0.2);
+border-radius: 40px;
+
+
+--------------------------------
+hero background color - 
+Radial Gradient
+#0068FF
+100%
+#0068FF
+100%
+#FFFFFF
+100%
+
+background: radial-gradient(176.57% 239.24% at 53.33% 94.92%, #0068FF 0%, #0068FF 34.55%, #FFFFFF 67.64%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
+
+--------------
+
+BUTTON --
+
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 20px 52px;
+gap: 10px;
+
+position: absolute;
+width: 168px;
+height: 59px;
+left: 636px;
+top: 1456px;
+
+background: #0068FF;
+border-radius: 40px;
+
+-------------------------------------
+
+
+START SELLING DIRECTLY BACKGROUND COLOR ---
+
+background: #F8F8FA;
+
+GREEEN CARD --
+position: absolute;
+width: 200px;
+height: 146.15px;
+left: 0px;
+top: 0px;
+
+background: #07C5B9;
+border-radius: 9.2638px;
+
+-----------------------------------
+
+PERFECT SOLUTIONS FOR SMALL BUSINESS
+
+Width
+1440px
+Height
+882px
+Top
+3492px
+#0068FF
+10%
+/* Rectangle 14 */
+
+
+position: absolute;
+width: 1440px;
+height: 882px;
+left: 0px;
+top: 3492px;
+
+background: rgba(0, 104, 255, 0.1);
+
+
+----------------------------------------
+
+logo - font family - inter , 32px
+
+
+----Navi header
+font-family: 'HK Grotesk';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+
+-----header button ==
+width: 168px;
+height: 60px;
+left: 1132px;
+top: 30px;
+
+background: rgba(255, 255, 255, 0.2);
+border-radius: 40px;
+
+
+======hero background---
+background: radial-gradient(176.57% 239.24% at 53.33% 94.92%, #0068FF 0%, #0068FF 34.55%, #FFFFFF 67.64%) 
+
+
+========instant conf call button===
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 20px 52px;
+gap: 10px;
+
+position: absolute;
+width: 168px;
+height: 59px;
+left: 636px;
+top: 1456px;
+
+background: #0068FF;
+border-radius: 40px;
+
+
+paragraph======
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 30px;
+/* or 167% */
+
+text-align: center;
+
+color: rgba(33, 33, 33, 0.8);
+
+
+
+======SELL DIRECTLY 
+background: #F8F8FA;
+
+
+=========PERFECT SOLUTIONS
+background: rgba(0, 104, 255, 0.1);
+
+
+========FOOTER
+background: #F8F8FA;
